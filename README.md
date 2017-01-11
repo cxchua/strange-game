@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redux Memory Game
 
 Redux implementation of a memory game.
@@ -33,3 +34,7 @@ npm start
 ### License
 
 MIT
+=======
+# strange-game
+A strange game
+>>>>>>> 4e042826c853ba338275b0bfe86eb7f004e0eaf4
